@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rento</string>
+    <string name="navigation_drawer_open">Open Navigation Bar</string>
+    <string name="navigation_drawe_close">Close Navigation drawer</string>
+</resources>
